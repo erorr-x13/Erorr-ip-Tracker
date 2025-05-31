@@ -30,7 +30,6 @@ cd Erorr
 Any problems, you can contact me at discord afyouna.py
 
 
- 😊 Good luck.
 
 
 
@@ -64,4 +63,3 @@ python3 Erorr.py
 
 اي مشكلة تستطيع تواصل معي على الديسكورد afyouna.py
 
-😊 بتوفيق 
