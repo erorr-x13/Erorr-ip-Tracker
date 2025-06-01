@@ -22,7 +22,7 @@ pip install nmap
 
 git clone  https://github.com/erorr-x13/Erorr-ip-Tracker.git
 
-cd Erorr
+cd Erorr-ip-Tracker
 
  python3 Erorr.py 
 
@@ -57,7 +57,7 @@ pip install nmap
 
 git clone https://github.com/erorr-x13/Erorr-ip-Tracker.git
 
-cd Erorr 
+cd Erorr-ip-Tracker
 
 python3 Erorr.py 
 
